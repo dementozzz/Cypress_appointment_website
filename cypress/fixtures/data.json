@@ -1,0 +1,8 @@
+{
+    "facility" : ["Tokyo CURA Healthcare Center", "Hongkong CURA Healthcare Center", "Seoul CURA Healthcare Center"],
+    "program" : ["Medicare", "Medicaid", "None"],
+    "date" : 10,
+    "month" : 8,
+    "year" : 2024,
+    "comment" : "This is monthly medical check up from DDD company"
+}
